@@ -4,6 +4,5 @@ int main()
 {
 
 printf("Learning How GitHUB Exactly Work");
-printf("added some code in linux");
 return 0;
 }
